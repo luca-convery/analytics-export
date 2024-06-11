@@ -1,0 +1,14 @@
+# Function dependencies, for example:
+# package>=version
+
+google-cloud-storage
+pandas
+functions-framework==3.*
+google-auth
+google-cloud-bigquery
+google-api-core
+google-api-python-client
+oauth2client
+datetime
+requests
+pyarrow==10.0.1
